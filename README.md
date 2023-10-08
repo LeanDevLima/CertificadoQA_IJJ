@@ -26,6 +26,13 @@ Também sou grato a todos os professores, facilitadores e gestores que nos condu
 
 Cerfificado:
 
+<src img="CertificadoQA.jpg">
+
+Foto da turma:
+
+<src img="fotoTurma.jpg">
+
+
 
 
 
