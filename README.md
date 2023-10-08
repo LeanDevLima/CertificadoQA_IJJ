@@ -1,6 +1,6 @@
 # CertificadoQA_IJJ# - QA NA PRÁTICA 📚
 
-Este [repositório](https://github.com/LeanDevLima/CertificadoQA_IJJ) é dedicado à demonstração de todos os módulos realizados durante o curso de Quality Assurance oferecido pelo [**Instituto JogaJunto**](https://www.jogajuntoinstituto.org/). Você também pode encontrar mais informações sobre os projetos desenvolvidos em outros repositórios, como:
+Este [repositório](https://github.com/LeanDevLima/CertificadoQA_IJJ) é dedicado à demonstração de todos os módulos realizados durante o curso de Quality Assurance oferecido pelo [**Instituto JogaJunto**](https://www.jogajuntoinstituto.org/). Você pode encontrar mais informações sobre os projetos desenvolvidos em outros repositórios, abaixo há uma pequena descrição a e o link de cada um:
 
 - No primeiro módulo, exploramos questões de identidade e responsabilidade pessoal.
 
@@ -12,7 +12,7 @@ Este [repositório](https://github.com/LeanDevLima/CertificadoQA_IJJ) é dedicad
 
 - Por fim, conduzimos diversos exercícios de automação de testes, fazendo uso das ferramentas Selenium e da biblioteca Behave. [Squad02_M5](https://github.com/LeanDevLima/Squad02_M5)
 
-Sou profundamente grato às minhas colegas de equipe que me acompanharam ao longo desta jornada: [Katie Lima](https://www.linkedin.com/in/katie-lima1/) na Squad10 e [Sara Cruz](https://www.linkedin.com/in/sara-j-m-da-cruz-08ba19282/) na Squad2.
+Sou profundamente grato às minhas colegas de equipe que me acompanharam ao longo do curso: [Katie Lima](https://www.linkedin.com/in/katie-lima1/) na Squad10 e [Sara Cruz](https://www.linkedin.com/in/sara-j-m-da-cruz-08ba19282/) na Squad2.
 
 Também sou grato a todos os professores, facilitadores e gestores que nos conduziram com excelência até o final desta jornada.
 
@@ -26,11 +26,11 @@ Também sou grato a todos os professores, facilitadores e gestores que nos condu
 
 Cerfificado:
 
-<src img="CertificadoQA.jpg">
+<img src="CertificadoQA.png">
 
 Foto da turma:
 
-<src img="fotoTurma.jpg">
+<img src="fotoTurma.png">
 
 
 
