@@ -16,6 +16,8 @@ Sou profundamente grato às minhas colegas de equipe que me acompanharam ao long
 
 Também sou grato a todos os professores, facilitadores e gestores que nos conduziram com excelência até o final desta jornada.
 
+[Ivan Silvati](https://www.linkedin.com/in/ivansilvati/)
+
 [Matheus Geambastiane](https://www.linkedin.com/in/matheus-geambastiane-/)
 
 [Mariana Galindo](https://www.linkedin.com/in/mariana-galindo-soares/)
